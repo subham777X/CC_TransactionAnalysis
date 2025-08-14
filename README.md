@@ -42,6 +42,7 @@ The highest transaction and the lowest transaction voulume in the year.
 6.**Excel**
   - Used just to connect the data to tableau public
   - As in tableau public ONDC is not supported
+  - Also to get the US state abbrevations to full names
 
 
 ---
