@@ -39,6 +39,11 @@ The highest transaction and the lowest transaction voulume in the year.
    - Used multiple dashboards to show the data
    - Designed charts for trend, category, and KPI analysis
 
+6.**Excel**
+  - Used just to connect the data to tableau public
+  - As in tableau public ONDC is not supported
+
+
 ---
 
 
